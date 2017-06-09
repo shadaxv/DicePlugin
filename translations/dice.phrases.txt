@@ -1,0 +1,411 @@
+"Phrases"
+{
+	"dice"
+	{
+		"en"		"Ruletka"
+	}
+	"already"
+	{
+		"#format"	"{1:i}"
+		"en"		"Juz wykorzystałeś ruletkę!"
+	}
+	"money"
+	{
+		"#format"	"{1:i}"
+		"en"		"Potrzebujesz {1}$, aby użyć ruletki!"
+	}
+	"rolling"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"Losowanie!"
+	}
+	"wrong"
+	{
+		"en"		"Jesteś w złej drużynie!"
+	}
+	"dead"
+	{
+		"en"		"Musisz być żywy, aby użyć ruletki!"
+	}
+	"noclip"
+	{
+		"#format"	"{1:i}"
+		"en"		"Otrzymałeś no clipa na {1} sekund!"
+	}
+	"deagle"
+	{
+		"en"		"Pssst... dostałeś deagle'a!"
+	}
+	"start"
+	{
+		"en"		"Napisz !ruletka, aby użyć ruletki."
+	}
+	"dice1"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Alkoholizację!"
+	}
+	"dice2"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Mefedron!"
+	}
+	"dice3"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Samozapłon!"
+	}
+	"dice4"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Większą Prędkość!"
+	}
+	"dice5"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} stał się rakietą!"
+	}
+	"dice6"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} nic nie wylosował!"
+	}
+	"dice7"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Długi skok!"
+	}
+	"dice8"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Deagle'a!"
+	}
+	"dice9"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Utratę życia!"
+	}
+	"dice10"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Dodatkowe punkty życia!"
+	}
+	"dice11"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Mniejszą prędkość!"
+	}
+	"dice12"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Granat!"
+	}
+	"dice13"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Dwa flashe!"
+	}
+	"dice14"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} nic nie wylosował!"
+	}
+	"dice15"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Mniejszą grawitację!"
+	}
+	"dice16"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Mniejszą grawitację!"
+	}
+	"dice17"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Większą prędkość i dodatkowe punkty życia!"
+	}
+	"dice18"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Mniejszą prędkość, mniejszą grawitacje i stracił trochę życia!"
+	}
+	"dice19"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Mniejszą prędkość, większą grawitacje i dostał parę punktów życia!"
+	}
+	"dice20"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: No Clipa na 5 sekund!"
+	}
+	"dice21"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Został zamrożony na 10-30 sekund!"
+	}
+	"dice22"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} nic nie wylosował!"
+	}
+	"dice23"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Glocka!"
+	}
+	"dice24"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Utratę życia do 1 HP"
+	}
+	"dice25"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Shotguna!"
+	}
+	"dice26"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Podwójny skok"
+	}
+	"dice27"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Noktowizor"
+	}
+	"dice28"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} nic nie wylosował!"
+	}
+	"dice29"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} nic nie wylosował!"
+	}
+	"dice30"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} nic nie wylosował!"
+	}
+	"dice31"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Samozapłon, większą prędkość i dodatkowe punkty życia!"
+	}
+	"dice32"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} nic nie wylosował!"
+	}
+	"dice32_all"
+	{
+		"#format"   "{1:i}"
+		"en"		"{1} nic nie wylosował!"
+	}
+	"dice33"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} nic nie wylosował!"
+	}
+	"dice33_all"
+	{
+		"#format"   "{1:i}"
+		"en"		"{1} nic nie wylosował!"
+	}
+	"dice34"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Medi shota!"
+	}
+	"dice35"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Wabika i medi shota!"
+	}
+	"dice36"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Smoke'a!"
+	}
+	"dice37"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Mołotowa!"
+	}
+	"dice38"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Flash'a!"
+	}
+	"dice39"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Zeusa!"
+	}
+	"dice40"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Wabika!"
+	}
+	"dice41"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Wabika i flash'a!"
+	}
+	"dice42"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Zwrot części pieniędzy!"
+	}
+	"dice43"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Potężną kamizelkę!"
+	}
+	"dice44"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} Dostał napadu padaczki!"
+	}
+	"dice45"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} Poleciał w kosmos!"
+	}
+	"dice46"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} Dostał napadu padaczki po zażyciu mefedronu, napił się ognistej wódki i ma 300 HP!"
+	}
+	"dice47"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} Został całkowicie oślepiony!"
+	}
+	"dice48"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} Widzi na jedno oko!"
+	}
+	"dice49"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} Dostał żaćmienia mózgu!"
+	}
+	"dice50"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} Widzi świat przez różowe okulary!"
+	}
+	
+	
+	"dicez1"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Zamrożenie na 1-7 sekund!"
+	}
+	"dicez2"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Medi shota!"
+	}
+	"dicez3"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Medishota i wabika!"
+	}
+	"dicez4"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Wabika!"
+	}
+	"dicez5"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Zeusa!"
+	}
+	"dicez6"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Zeusa i wabika!"
+	}
+	"dicez7"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Rewolwer"
+	}
+	"dicez8"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Zwrot części pieniędzy!"
+	}
+	"dicez9"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Noktowizor"
+	}
+	"dicez10"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Podwójny skok!"
+	}
+	"dicez11"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Większą prędkość!"
+	}
+	"dicez12"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Dodatkowe punkty życia!"
+	}
+	"dicez13"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Większą grawitację!"
+	}
+	"dicez14"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} Stracił trochę życia!"
+	}
+	"dicez15"
+	{
+		"#format"   "{1:N},{2:i}"	
+		"en"		"{1} nic nie wylosował!"
+	}
+	"dicez16"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Mniejszą prędkość!"
+	}
+	"dicez17"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Mniejszą grawitację!"
+	}
+	"dicez18"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} wylosował: Potężną kamizelkę!"
+	}
+	"dicez19"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} Dostał napadu padaczki!"
+	}
+	"dicez20"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} Ledwo widzi!"
+	}
+	"dicez21"
+	{
+		"#format"   "{1:N},{2:i}"
+		"en"		"{1} Widzi świat przez różowe okulary!"
+	}
+	
+}
